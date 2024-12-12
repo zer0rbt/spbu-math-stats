@@ -1,4 +1,6 @@
 datasets:
   airport: D://Study/MathStats/Datasets/airportdat.txt
   babyboom: D://Study/MathStats/Datasets/babyboom.dat.txt
+  euroweights: D://Study/MathStats/Datasets/euroweight.dat.txt
+  iris: D://Study/MathStats/Datasets/iris.txt
 
